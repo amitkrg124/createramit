@@ -41,8 +41,8 @@ export default function ServicesSection() {
           />
           <ServicesSectionItem
             icon={<MdPhonelinkSetup />}
-            title="app Dev"
-            desc="I develop mobile application. I create mobile app with eye catching ui. "
+            title="SEO Service"
+            desc="I do SEO .To rank the websites "
           />
         </div>
       </div>
