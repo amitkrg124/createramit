@@ -1,7 +1,7 @@
 const testimonials = [
   {
     id: 1,
-    name: 'AMIT',
+    name: 'Sangita',
     title: 'CEO',
     org: 'THE DIGITAL EAGLE',
     desc:
@@ -17,9 +17,9 @@ const testimonials = [
   },
   {
     id: 3,
-    name: 'Prashant',
+    name: 'Priti',
     title: 'Marketing Head',
-    org: 'Eleven Dawn',
+    org: 'THE DIGITAL EAGLE',
     desc:
       'Really hard-working person. Deliver the work as promised. Planning to work more with this person.',
   },
