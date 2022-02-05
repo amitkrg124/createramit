@@ -100,7 +100,7 @@ export default function Footer() {
                 path: 'tel:+9716337844',
               },
               {
-                title: 'amitkrg124@gmail.com@gmail.com',
+                title: 'amitkrg124@gmail.com',
                 path: 'jack360nn@gmail.com',
               },
               {
