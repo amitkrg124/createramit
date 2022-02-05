@@ -29,9 +29,9 @@ const projects = [
   },
   {
     id: uuidv4(),
-    name: "Amit's Portfolio",
+    name: "RAJNIKANT's Portfolio",
     desc:
-      'A portfolio for Cavin jr. A artist from New york city. The portfolio is made using ReactJs and GatsbyJs.',
+      'A portfolio for Rajnikan. A Leader from Delhi. The portfolio is made using ReactJs and GatsbyJs.',
     img: CavinImg,
   },
   {
