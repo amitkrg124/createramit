@@ -2,7 +2,7 @@
 
 ## Project Details
 
-A portfolio for a web designer. We used React js to make this portfolio. A clean design with full responsiveness. You will find this portfolio very professional. Also, we added smooth scroll in the portfolio which will make the scroll experience really elegant.
+A portfolio for a web designer. I used React js to make this portfolio. A clean design with full responsiveness. You will find this portfolio very professional. Also, we added smooth scroll in the portfolio which will make the scroll experience really elegant.
 
 ## Project Requirement
 
